@@ -1,0 +1,8 @@
+<resources>
+    <drawable-list id="up">
+   	    <bitmap id="upIcon" x="110" y="0" filename="images/fontAwesome/up-white.png" />
+    </drawable-list>
+    <drawable-list id="down" background="Gfx.COLOR_TRANSPARENT">
+   	    <bitmap id="downIcon" x="110" y="220" filename="images/fontAwesome/down-white.png" />
+    </drawable-list>    
+</resources>

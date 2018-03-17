@@ -1,0 +1,4 @@
+<layout id="MainLayout">
+    <label x="center" y="50" text="@Strings.prompt" color="Gfx.COLOR_WHITE" justification="Gfx.TEXT_JUSTIFY_CENTER" />
+    <label id="pickerOutput" x="center" y="center" text="" color="Gfx.COLOR_WHITE" justification="Gfx.TEXT_JUSTIFY_CENTER" />
+</layout>

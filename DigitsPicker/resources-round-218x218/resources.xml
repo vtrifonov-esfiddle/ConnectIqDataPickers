@@ -1,0 +1,5 @@
+<resources>
+    <drawable-list id="done">
+    	<bitmap id="doneIcon"  x="95" y="130" filename="images/done.png" />    	
+    </drawable-list>
+ </resources>

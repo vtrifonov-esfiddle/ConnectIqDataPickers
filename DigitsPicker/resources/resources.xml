@@ -1,0 +1,10 @@
+<resources>       
+    <drawable-list id="done">
+    	<bitmap id="doneIcon"  x="95" y="140" filename="images/done.png" />
+    </drawable-list>
+    <drawable-list id="whiteBackground" background="Gfx.COLOR_WHITE" />
+    
+    <fonts>
+   	    <font id="fontDigits" filename="fonts/roboto/roboto46Bold.fnt" />
+    </fonts>
+</resources>
