@@ -12,5 +12,7 @@ Provides almost the same number/time picker as the native Vivoactive 3 picker. S
 Provides full screen color picker and base class for generic page pickers
 
 ## Screenshots
+
 ![colorPicker.PNG](https://github.com/vtrifonov-esfiddle/ConnectIqDataPickers/tree/master/screenshots/colorPicker.PNG)
+
 ![timePicker.PNG](https://github.com/vtrifonov-esfiddle/ConnectIqDataPickers/tree/master/screenshots/timePicker.PNG)
